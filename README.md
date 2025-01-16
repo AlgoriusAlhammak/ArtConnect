@@ -56,26 +56,26 @@
    
 9. Project Structure
    
-  index.php: Main dashboard view.
+     index.php: Main dashboard view.
   
-  upload.php: Page to upload images/artwork.
+     upload.php: Page to upload images/artwork.
   
-  profile.php: View user profile and details.
+     profile.php: View user profile and details.
   
-  login.php: Login page for users.
+     login.php: Login page for users.
   
-  logout.php: Log out functionality.
+     logout.php: Log out functionality.
   
-  comment.php: Handle comments on artwork.
+     comment.php: Handle comments on artwork.
   
-  like.php: Handle likes on artwork.
+     like.php: Handle likes on artwork.
   
-  follow.php: Handle following artists.
+     follow.php: Handle following artists.
   
-  unfollow.php: Handle unfollowing artists.
+     unfollow.php: Handle unfollowing artists.
   
-  db_connection.php: Database connection setup.
+     db_connection.php: Database connection setup.
   
-  DashStyles.css: Stylesheet for the dashboard page.
+     DashStyles.css: Stylesheet for the dashboard page.
   
-  script.js: JavaScript for frontend interactivity.
+     script.js: JavaScript for frontend interactivity.
