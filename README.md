@@ -56,7 +56,7 @@
    
 9. Project Structure
    
-     index.php: Main dashboard view.
+     index.php: ---> login.php.
   
      upload.php: Page to upload images/artwork.
   
