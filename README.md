@@ -29,7 +29,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/ArtConnect.git
+   git clone https://github.com/AlgoriousAlhammak/ArtConnect.git
    cd ArtConnect
 2. Set up the database:
 
@@ -42,26 +42,38 @@
 
 4. Run XAMPP or MAMP and start the Apache and MySQL services.
 5. User Authentication
+   
    1- Login Page: Users can log in using the login page (login.php).
    2- If a user is not logged in, they will be redirected to the login page.
 
-6. Dashboard Features
+7. Dashboard Features
    
    1- Posts from Artists You Follow: On the dashboard, you can see posts (images) from artists that you follow.
    2- Like and Comment on Posts: Fans can like and comment on artworks they enjoy.
    3- Follow/Unfollow Artists: Fans can follow or unfollow artists directly from the dashboard.
    
-7. Project Structure
+8. Project Structure
    
   index.php: Main dashboard view.
+  
   upload.php: Page to upload images/artwork.
+  
   profile.php: View user profile and details.
+  
   login.php: Login page for users.
+  
   logout.php: Log out functionality.
+  
   comment.php: Handle comments on artwork.
+  
   like.php: Handle likes on artwork.
+  
   follow.php: Handle following artists.
+  
   unfollow.php: Handle unfollowing artists.
+  
   db_connection.php: Database connection setup.
+  
   DashStyles.css: Stylesheet for the dashboard page.
+  
   script.js: JavaScript for frontend interactivity.
