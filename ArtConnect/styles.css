@@ -1,0 +1,98 @@
+/* General body styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+/* Login container styling */
+.login-container {
+    background-color: white;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    text-align: center;
+}
+
+/* Header styling */
+.login-container h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+/* Error message styling */
+.error-message {
+    color: red;
+    margin-bottom: 15px;
+}
+
+/* Form styling */
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+/* Label styling */
+label {
+    margin-bottom: 5px;
+    font-size: 14px;
+    color: #555;
+}
+
+/* Input field styling */
+input {
+    padding: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+    background-color: #fafafa;
+}
+
+/* Focused input field styling */
+input:focus {
+    border-color: #0056b3;
+    outline: none;
+}
+
+/* Button styling */
+button {
+    padding: 12px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+/* Button hover effect */
+button:hover {
+    background-color: #0056b3;
+}
+
+/* Footer text styling */
+p {
+    font-size: 14px;
+    margin-top: 15px;
+}
+
+/* Link styling */
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+/* Hover effect for the link */
+a:hover {
+    text-decoration: underline;
+}
