@@ -49,10 +49,12 @@
 7. Dashboard Features
    
    1- Posts from Artists You Follow: On the dashboard, you can see posts (images) from artists that you follow.
+   
    2- Like and Comment on Posts: Fans can like and comment on artworks they enjoy.
+   
    3- Follow/Unfollow Artists: Fans can follow or unfollow artists directly from the dashboard.
    
-8. Project Structure
+9. Project Structure
    
   index.php: Main dashboard view.
   
